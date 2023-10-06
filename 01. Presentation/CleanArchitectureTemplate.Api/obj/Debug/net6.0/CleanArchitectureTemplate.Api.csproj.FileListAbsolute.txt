@@ -1,0 +1,130 @@
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.csproj.AssemblyReference.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.AssemblyInfoInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.AssemblyInfo.cs
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.csproj.CoreCompileInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\appsettings.json
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.exe
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.deps.json
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.runtimeconfig.json
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\FluentAssertions.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\MediatR.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.EventCounterCollector.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\SegurosSura.Core.API.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\SegurosSura.Core.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\SegurosSura.Utils.Telemetry.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Application.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Application.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets\msbuild.CleanArchitectureTemplate.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.CleanArchitectureTemplate.Api.props
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CleanArchitectureTemplate.Api.props
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CleanArchitectureTemplate.Api.props
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\scopedcss\bundle\CleanArchitectureTemplate.Api.styles.css
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.csproj.CopyComplete
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\refint\CleanArchitectureTemplate.Api.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.genruntimeconfig.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Api\obj\Debug\net6.0\ref\CleanArchitectureTemplate.Api.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\appsettings.json
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.exe
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.deps.json
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.runtimeconfig.json
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Api.pdb
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\FluentAssertions.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\MediatR.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.EventCounterCollector.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\SegurosSura.Core.API.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\SegurosSura.Core.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\SegurosSura.Utils.Telemetry.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Application.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Application.pdb
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.pdb
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.csproj.AssemblyReference.cache
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.AssemblyInfoInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.AssemblyInfo.cs
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.csproj.CoreCompileInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets\msbuild.CleanArchitectureTemplate.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.CleanArchitectureTemplate.Api.props
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CleanArchitectureTemplate.Api.props
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CleanArchitectureTemplate.Api.props
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\scopedcss\bundle\CleanArchitectureTemplate.Api.styles.css
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.csproj.CopyComplete
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\refint\CleanArchitectureTemplate.Api.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.pdb
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\CleanArchitectureTemplate.Api.genruntimeconfig.cache
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\obj\Debug\net6.0\ref\CleanArchitectureTemplate.Api.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Infrastructure.dll
+C:\Proyectos\CleanArchitectureTemplate\01. Presentation\CleanArchitectureTemplate.Api\bin\Debug\net6.0\CleanArchitectureTemplate.Infrastructure.pdb

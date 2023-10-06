@@ -1,0 +1,22 @@
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.deps.json
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.AssemblyInfoInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.AssemblyInfo.cs
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\refint\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\ref\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.deps.json
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.pdb
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.AssemblyInfoInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.AssemblyInfo.cs
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\refint\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\CleanArchitectureTemplate.Domain.pdb
+C:\Proyectos\CleanArchitectureTemplate\02. Application\CleanArchitectureTemplate.Domain\obj\Debug\net6.0\ref\CleanArchitectureTemplate.Domain.dll
