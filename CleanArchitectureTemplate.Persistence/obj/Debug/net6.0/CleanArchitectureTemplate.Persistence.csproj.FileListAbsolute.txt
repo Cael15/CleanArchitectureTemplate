@@ -1,0 +1,17 @@
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\bin\Debug\net6.0\CleanArchitectureTemplate.Persistence.deps.json
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\bin\Debug\net6.0\CleanArchitectureTemplate.Persistence.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\bin\Debug\net6.0\CleanArchitectureTemplate.Persistence.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\bin\Debug\net6.0\CleanArchitectureTemplate.Application.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\bin\Debug\net6.0\CleanArchitectureTemplate.Application.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\CleanArchitectureTemplate.Persistence.csproj.AssemblyReference.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\CleanArchitectureTemplate.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\CleanArchitectureTemplate.Persistence.AssemblyInfoInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\CleanArchitectureTemplate.Persistence.AssemblyInfo.cs
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\CleanArchitectureTemplate.Persistence.csproj.CoreCompileInputs.cache
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\CleanArchitectureTemplate.Persistence.csproj.CopyComplete
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\CleanArchitectureTemplate.Persistence.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\refint\CleanArchitectureTemplate.Persistence.dll
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\CleanArchitectureTemplate.Persistence.pdb
+C:\Proyectos\CleanArchitectureTemplate\CleanArchitectureTemplate.Persistence\obj\Debug\net6.0\ref\CleanArchitectureTemplate.Persistence.dll

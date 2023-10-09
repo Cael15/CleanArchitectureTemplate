@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CleanArchitectureTemplate.Application.Persitence;
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArchitectureTemplate.Api.Controllers
 {
@@ -6,9 +8,11 @@ namespace CleanArchitectureTemplate.Api.Controllers
     [Route("api/[controller]")]
     public class EntityController : ControllerBase
     {
-        public EntityController()
+        private readonly IMediator _mediator;
+
+        public EntityController(IMediator mediator)
         {
-            
+            _mediator = mediator;
         }
 
         [HttpGet]

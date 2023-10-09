@@ -8,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.UseDependencyInjectorConfiguration(builder.Configuration);
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
+builder.Services.AddSwaggerGen();
+
 var config = new MapperConfiguration(cfg =>
 {
     cfg.AddProfile(new AutoMapperProfile());
@@ -18,7 +20,12 @@ builder.Services.AddSingleton(mapper);
 
 var app = builder.Build();
 
-app.UseAuthorization();
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
 app.MapControllers();
 
 app.Run();
