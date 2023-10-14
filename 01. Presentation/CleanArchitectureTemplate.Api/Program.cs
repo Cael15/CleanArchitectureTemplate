@@ -17,6 +17,7 @@ var config = new MapperConfiguration(cfg =>
 
 var mapper = config.CreateMapper();
 builder.Services.AddSingleton(mapper);
+config.AssertConfigurationIsValid();
 
 var app = builder.Build();
 

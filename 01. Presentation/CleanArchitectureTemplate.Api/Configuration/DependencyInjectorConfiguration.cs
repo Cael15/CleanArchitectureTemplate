@@ -4,7 +4,6 @@ using CleanArchitectureTemplate.Application.Persitence;
 using CleanArchitectureTemplate.Persistence;
 using CleanArchitectureTemplate.Persistence.Repositories;
 using MediatR;
-using Microsoft.EntityFrameworkCore;
 using SegurosSura.Core.Domain.Interfaces;
 using SegurosSura.Utils.Telemetry;
 using System.Reflection;
@@ -22,15 +21,14 @@ namespace CleanArchitectureTemplate.Api.Configuration
             var sp = service.BuildServiceProvider();
             var trace = sp.GetService<ITraceHelper>();
 
+            service.AddSingleton<DapperContext>();
             service.AddControllers();
-            service.AddDbContext<CleanAquitectureTemplateContext>(
-                options =>
-                {
-                    options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
-                });
 
             // Handlers
             service.AddScoped<IRequestHandler<GetEntityQuery, IEnumerable<GetEntityModel>>, GetEntityHandler>();
+            service.AddScoped<IRequestHandler<PostEntityCommand, bool>, PostEntityHandler>();
+
+
 
             // Persitence
             service.AddScoped<IUnitOfWork, UnitOfWork>();

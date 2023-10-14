@@ -20,7 +20,9 @@ C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTempl
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\bin\Debug\net6.0\CleanArchitectureTemplate.Infrastructure.pdb
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\bin\Debug\net6.0\CleanArchitectureTemplate.Application.dll
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.dll
+C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\bin\Debug\net6.0\CleanArchitectureTemplate.Persistence.dll
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\bin\Debug\net6.0\CleanArchitectureTemplate.Application.pdb
+C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\bin\Debug\net6.0\CleanArchitectureTemplate.Persistence.pdb
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\bin\Debug\net6.0\CleanArchitectureTemplate.Domain.pdb
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\obj\Debug\net6.0\CleanArchitectureTemplate.Infrastructure.csproj.AssemblyReference.cache
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\obj\Debug\net6.0\CleanArchitectureTemplate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
@@ -32,5 +34,3 @@ C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTempl
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\obj\Debug\net6.0\refint\CleanArchitectureTemplate.Infrastructure.dll
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\obj\Debug\net6.0\CleanArchitectureTemplate.Infrastructure.pdb
 C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\obj\Debug\net6.0\ref\CleanArchitectureTemplate.Infrastructure.dll
-C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\bin\Debug\net6.0\CleanArchitectureTemplate.Persistence.dll
-C:\Proyectos\CleanArchitectureTemplate\03. Infrastructure\CleanArchitectureTemplate.Infrastructure\bin\Debug\net6.0\CleanArchitectureTemplate.Persistence.pdb

@@ -9,8 +9,12 @@ namespace CleanArchitectureTemplate.Infrastructure.Mapper
     {
         public AutoMapperProfile()
         {
-            CreateMap<Entity, EntityViewModels>().ReverseMap();
-            CreateMap<EntityViewModels, GetEntityModel>().ReverseMap();
+            CreateMap<Entity, PostEntityCommand>().ReverseMap();
+            CreateMap<EntityViewModels, PostEntityCommand>().ReverseMap();
+
+            CreateMap<Entity, GetEntityModel>().ReverseMap();
+            CreateMap<GetEntityModel, EntityViewModels>().ReverseMap();
+            
         }
     }
 }

@@ -4,11 +4,11 @@ namespace CleanArchitectureTemplate.Application.Features
 {
     public class GetEntityQuery : IRequest<IEnumerable<GetEntityModel>>
     {
-        public GetEntityQuery(int Id)
+        public GetEntityQuery(Guid id)
         {
-            this.Id = Id;
+            this.Id = id;
         }
 
-        public int Id { get; }
+        public Guid Id { get; }
     }
 }

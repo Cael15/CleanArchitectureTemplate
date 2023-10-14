@@ -5,6 +5,6 @@ namespace CleanArchitectureTemplate.Application.DataContext
     public interface IUnitOfWork
     {
         IEntityRepository _Entities { get; }
-        Task<int> SaveChangesAsync();
+        Task SaveChangesAsync();
     }
 }

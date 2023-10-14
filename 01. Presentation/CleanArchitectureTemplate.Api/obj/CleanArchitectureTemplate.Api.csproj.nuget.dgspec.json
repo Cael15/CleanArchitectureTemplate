@@ -40,8 +40,8 @@
               "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Infrastructure\\CleanArchitectureTemplate.Infrastructure.csproj": {
                 "projectPath": "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Infrastructure\\CleanArchitectureTemplate.Infrastructure.csproj"
               },
-              "C:\\Proyectos\\CleanArchitectureTemplate\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj": {
-                "projectPath": "C:\\Proyectos\\CleanArchitectureTemplate\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj"
+              "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj": {
+                "projectPath": "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj"
               }
             }
           }
@@ -63,10 +63,6 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.1.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.10, )"
             },
             "SegurosSura.Utils.Telemetry": {
               "target": "Package",
@@ -281,8 +277,8 @@
               "C:\\Proyectos\\CleanArchitectureTemplate\\02. Application\\CleanArchitectureTemplate.Application\\CleanArchitectureTemplate.Application.csproj": {
                 "projectPath": "C:\\Proyectos\\CleanArchitectureTemplate\\02. Application\\CleanArchitectureTemplate.Application\\CleanArchitectureTemplate.Application.csproj"
               },
-              "C:\\Proyectos\\CleanArchitectureTemplate\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj": {
-                "projectPath": "C:\\Proyectos\\CleanArchitectureTemplate\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj"
+              "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj": {
+                "projectPath": "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj"
               }
             }
           }
@@ -322,14 +318,14 @@
         }
       }
     },
-    "C:\\Proyectos\\CleanArchitectureTemplate\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj": {
+    "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\CleanArchitectureTemplate\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj",
+        "projectUniqueName": "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj",
         "projectName": "CleanArchitectureTemplate.Persistence",
-        "projectPath": "C:\\Proyectos\\CleanArchitectureTemplate\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj",
+        "projectPath": "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Persistence\\CleanArchitectureTemplate.Persistence.csproj",
         "packagesPath": "C:\\Users\\djdel\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\CleanArchitectureTemplate\\CleanArchitectureTemplate.Persistence\\obj\\",
+        "outputPath": "C:\\Proyectos\\CleanArchitectureTemplate\\03. Infrastructure\\CleanArchitectureTemplate.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -368,13 +364,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Dapper": {
               "target": "Package",
-              "version": "[6.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.Relational": {
-              "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[2.0.123, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
